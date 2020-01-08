@@ -1,0 +1,9 @@
+name: Testing
+version: 1.0-SNAPSHOT
+api-version: 1.13
+main: us.redpvp.testing.Main
+description: A Testing Plugin
+author: Jotos
+commands:
+  hello:
+    description: Says hello to the world

@@ -1,0 +1,9 @@
+name: Testing
+version: ${project.version}
+api-version: 1.13
+main: us.redpvp.testing.Main
+description: ${project.description}
+author: Jotos
+commands:
+  hello:
+    description: Says hello to the world
